@@ -28,5 +28,3 @@
       <img width="25" src="linkedin.svg">
     </a>
 </div>
-  
-![Snake animation](https://github.com/Joaogomesbrandao/Joaogomesbrandao/blob/output/github-contribution-grid-snake.svg)
