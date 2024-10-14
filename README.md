@@ -27,9 +27,6 @@
     <a href = "https://www.linkedin.com/in/jo%C3%A3o-brand%C3%A3o-336138330/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/joao_gbrandao/">
-      <img width="25" src="instagram.png">
-    </a>
 </div>
   
 ![Snake animation](https://github.com/Joaogomesbrandao/Joaogomesbrandao/blob/output/github-contribution-grid-snake.svg)
