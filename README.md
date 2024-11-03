@@ -13,6 +13,7 @@
     <img align="center" height="30" width="40" alt="clojure-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg">
     <img align="center" height="30" width="40" alt="r-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
     <img align="center" height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg">
+    <img align="center" height="30" width="40" alt="c++-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
     <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg">
     <img align="center" height="30" width="40" alt="git-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
